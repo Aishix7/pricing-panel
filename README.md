@@ -33,4 +33,5 @@ This project creates a simple, responsive pricing table with three plans: Person
 
 
 Responsive Breakpoints:
-@media (min-width: 900px): When the screen is 900px or wider, the pricing plans are displayed side by side using Flexbox.
+@media (min-width: 900px): When the screen is 900px or wider, the pricing plans are displayed side by side using Flexbox. 
+view at : https://aishix7.github.io/pricing-panel/
